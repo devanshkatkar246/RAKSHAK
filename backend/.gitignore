@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+firebase_service_account.json
+rag/knowledge_base/
+*.db
+*.sqlite
+logs/
